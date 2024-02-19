@@ -1,10 +1,8 @@
 package com.mariamacias.mavenproject;
 import java.util.Date;
 import java.text.SimpleDateFormat;
-/**
- * Hello world!
- *
- */
+
+
 public class App 
 {
     public static void main( String[] args )
