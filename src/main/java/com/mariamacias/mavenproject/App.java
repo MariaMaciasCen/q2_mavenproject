@@ -1,8 +1,10 @@
 package com.mariamacias.mavenproject;
 import java.util.Date;
 import java.text.SimpleDateFormat;
-
-
+/**
+ * Greeting App
+ *
+ */
 public class App 
 {
     public static void main( String[] args )
