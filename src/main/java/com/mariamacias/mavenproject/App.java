@@ -2,7 +2,7 @@ package com.mariamacias.mavenproject;
 import java.util.Date;
 import java.text.SimpleDateFormat;
 /**
- * Greeting App
+ * Greeting
  *
  */
 public class App 
